@@ -1,0 +1,315 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"pla",
+				"placeholder"
+			],
+			[
+				"Zip",
+				"ZipCode"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"intro",
+				"intro-bg"
+			],
+			[
+				"text",
+				"text-indent\tproperty"
+			],
+			[
+				"jp",
+				"jpeg"
+			],
+			[
+				"emai",
+				"ion-ios-email-outline"
+			],
+			[
+				"input",
+				"inputPassword2"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"tra",
+				"tracks2"
+			],
+			[
+				"tr",
+				"tracks2"
+			],
+			[
+				"tracks",
+				"tracks2"
+			],
+			[
+				"in",
+				"init_head-i"
+			],
+			[
+				"p",
+				"p_id"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"bor",
+				"border-right\tproperty"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"S",
+				"System"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"imp",
+				"import"
+			],
+			[
+				"l",
+				"legend\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 193.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/XAMPP/htdocs/index.php",
+		"/D/WT flash/Flash/form.html",
+		"/C/Users/Rahil/Downloads/index.html",
+		"/D/WT flash/Flash/index.html",
+		"/C/Users/Rahil/Downloads/index (1).html",
+		"/D/WT flash/Flash/index (1).html",
+		"/D/WT miniproject/negotiate/scss/style.scss",
+		"/D/WT miniproject/negotiate/index.html",
+		"/D/WT miniproject/negotiate/contact.html",
+		"/D/WT miniproject/negotiate/blog-single.html",
+		"/D/WT miniproject/negotiate/blog.html",
+		"/D/WT miniproject/negotiate/about.html",
+		"/D/WT miniproject/negotiate/main.html",
+		"/D/WT miniproject/negotiate/scss/bootstrap/_button-group.scss",
+		"/D/WEB DEV BOOTCAMP/test docs/blog.css",
+		"/D/WEB DEV BOOTCAMP/test docs/blog.html",
+		"/C/Users/Rahil/Desktop/fcfs.java",
+		"/C/Users/Rahil/Desktop/pyProg/diskfcfs.py",
+		"/C/Users/Rahil/Downloads/1.xml",
+		"/C/Users/Rahil/Downloads/6.xsd",
+		"/C/Users/Rahil/Downloads/4.dtd",
+		"/C/Users/Rahil/Downloads/2.xsl",
+		"/C/Users/Rahil/Desktop/server.py",
+		"/C/Users/Rahil/Desktop/server.java",
+		"/C/Users/Rahil/Desktop/client.java",
+		"/C/Users/Rahil/Desktop/host.py",
+		"/C/Users/Rahil/Downloads/server (1).java",
+		"/C/Users/Rahil/Downloads/client.java",
+		"/C/Users/Rahil/Desktop/priorityp.py",
+		"/C/Users/Rahil/Desktop/srtf.py",
+		"/C/Users/Rahil/Desktop/priority.py",
+		"/C/Users/Rahil/Desktop/sjf.py",
+		"/C/Users/Rahil/Desktop/priority preemptive.py",
+		"/C/Users/Rahil/Desktop/myPack/trig.java",
+		"/C/Users/Rahil/Desktop/cf.java",
+		"/C/Users/Rahil/Desktop/hrrn.py",
+		"/D/WEB DEV BOOTCAMP/test docs/2nd assignment pokemon.html",
+		"/D/WEB DEV BOOTCAMP/test docs/froms.html",
+		"/D/WEB DEV BOOTCAMP/test docs/first.html",
+		"/C/Users/Rahil/Downloads/ip.java",
+		"/C/Users/Rahil/Desktop/DN.java",
+		"/D/RahilRaj TY/DN lab/cf.java",
+		"/C/Users/Rahil/Downloads/dn43.java",
+		"/C/Users/Rahil/Desktop/ip.java",
+		"/C/Users/Rahil/Desktop/wt.html",
+		"/D/Ashley/startbootstrap-resume-gh-pages/index.html",
+		"/D/WEB DEV BOOTCAMP/test docs/assignment.html"
+	],
+	"find":
+	{
+		"height": 44.8
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "confirmation.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
